@@ -1,0 +1,18 @@
+RELATÓRIO DE VENDAS – Outubro de 2026
+============================================
+Total do mês:      R$ 2.039,00
+Itens vendidos:    97
+Dias com venda:    24
+Média por dia:     R$ 84,96
+
+Comparação com o mês anterior (setembro de 2026):
+  Total:    R$ 1.151,00 -> R$ 2.039,00  (+77,2%)
+  Itens:    54 -> 97  (+79,6%)
+
+Produtos mais vendidos (top 3):
+  1. Sabonete artesanal      30 un.  R$ 360,00
+  2. Chaveiro de crochê      18 un.  R$ 144,00
+  3. Vela aromática          15 un.  R$ 420,00
+
+Dia mais forte:
+  10/10/2026 (sábado) - R$ 347,00
